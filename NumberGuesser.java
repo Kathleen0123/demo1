@@ -4,7 +4,7 @@ import java.util.Scanner;
  * A basic Number Guesser game.
  *
  * @author Kathleen Ge
- * @version 3/11/19
+ * @version 3/13/19
  */
 public class NumberGuesser
 {
